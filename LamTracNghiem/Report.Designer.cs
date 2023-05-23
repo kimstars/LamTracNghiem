@@ -31,6 +31,7 @@ namespace LamTracNghiem
         {
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -52,11 +53,21 @@ namespace LamTracNghiem
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(25, 22);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(463, 17);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Phần mềm xảy ra lỗi, bạn có thể liên hệ email của tớ : buikika9@gmail.com";
+            // 
             // Report
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(500, 358);
+            this.ClientSize = new System.Drawing.Size(500, 392);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Name = "Report";
@@ -71,5 +82,6 @@ namespace LamTracNghiem
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label2;
     }
 }

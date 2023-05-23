@@ -155,6 +155,7 @@ namespace LamTracNghiem
 
         private void FluentDesignForm1_Load(object sender, EventArgs e)
         {
+
             if (File.Exists("./HCTC.txt"))
             {
                 LoadDe("./HCTC.txt");
@@ -162,7 +163,7 @@ namespace LamTracNghiem
             else
             {
                 Form1 newform = new Form1();
-
+                newform.Show();
             }
         }
 
