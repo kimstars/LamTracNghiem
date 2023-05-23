@@ -141,8 +141,8 @@ namespace LamTracNghiem
 
 
             }
-            var rnd = new Random();
-            Suffler.Shuffle(lstQuestion, rnd);
+
+            
             //MessageBox.Show(lstQuestion.Count.ToString());
 
 
@@ -285,7 +285,7 @@ namespace LamTracNghiem
                     {
                         btn.ForeColor = Color.Red;
                     }
-                    if (!lstQuestion[currentQues].Dung && btn != null && btn.Tag.ToString() == lstQuestion[currentQues].Ans)
+                    if (lstQuestion[currentQues].Dung && btn != null && btn.Tag.ToString() == lstQuestion[currentQues].Ans)
                     {
                         //MessageBox.Show(radioButton.Tag.ToString());
                         btn.ForeColor = Color.Green;
@@ -424,6 +424,33 @@ namespace LamTracNghiem
         {
             Report newform = new Report();
             newform.Show();
+        }
+
+        private void btnTron_Click(object sender, EventArgs e)
+        {
+            currentQues = 0;
+            socaudung = 0;
+            socausai = 0;
+
+            flPanelAns.Controls.Clear();
+            txtQues.Text = "";
+            foreach (var item in lstQuestion)
+            {
+                item.DaLam = false;
+            }
+
+            foreach (Control control in flowLayoutPanel1.Controls)
+            {
+                Button btn = control as Button;
+                if (btn != null)
+                {
+                    btn.BackColor = Color.White;
+                    break;
+                }
+            }
+            var rnd = new Random();
+            Suffler.Shuffle(lstQuestion, rnd);
+
         }
     }
 }
