@@ -36,6 +36,7 @@ namespace LamTracNghiem
             this.flPanelAns = new System.Windows.Forms.FlowLayoutPanel();
             this.txtQues = new System.Windows.Forms.RichTextBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnReport = new System.Windows.Forms.Button();
             this.lbTongSoCau = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.lbSoCauDung = new System.Windows.Forms.Label();
@@ -44,11 +45,10 @@ namespace LamTracNghiem
             this.label4 = new System.Windows.Forms.Label();
             this.btnReset = new System.Windows.Forms.Button();
             this.btnReload = new System.Windows.Forms.Button();
-            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.fluentDesignFormControl1 = new DevExpress.XtraBars.FluentDesignSystem.FluentDesignFormControl();
             this.btnLoadDe = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
-            this.btnReport = new System.Windows.Forms.Button();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.fluentDesignFormContainer1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -68,12 +68,13 @@ namespace LamTracNghiem
             // tableLayoutPanel1
             // 
             this.tableLayoutPanel1.ColumnCount = 3;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 78.91949F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 21.08051F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 322F));
-            this.tableLayoutPanel1.Controls.Add(this.panel1, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.panel2, 1, 0);
-            this.tableLayoutPanel1.Controls.Add(this.flowLayoutPanel1, 2, 0);
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 21.93995F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 78.06004F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 146F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 126F));
+            this.tableLayoutPanel1.Controls.Add(this.flowLayoutPanel1, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.panel2, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.panel1, 1, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -88,9 +89,9 @@ namespace LamTracNghiem
             this.panel1.Controls.Add(this.flPanelAns);
             this.panel1.Controls.Add(this.txtQues);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(3, 3);
+            this.panel1.Location = new System.Drawing.Point(193, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(539, 646);
+            this.panel1.Size = new System.Drawing.Size(670, 646);
             this.panel1.TabIndex = 0;
             // 
             // flPanelAns
@@ -101,7 +102,7 @@ namespace LamTracNghiem
             this.flPanelAns.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             this.flPanelAns.Location = new System.Drawing.Point(0, 166);
             this.flPanelAns.Name = "flPanelAns";
-            this.flPanelAns.Size = new System.Drawing.Size(539, 480);
+            this.flPanelAns.Size = new System.Drawing.Size(670, 480);
             this.flPanelAns.TabIndex = 1;
             // 
             // txtQues
@@ -110,7 +111,7 @@ namespace LamTracNghiem
             this.txtQues.Font = new System.Drawing.Font("Palatino Linotype", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtQues.Location = new System.Drawing.Point(0, 0);
             this.txtQues.Name = "txtQues";
-            this.txtQues.Size = new System.Drawing.Size(539, 166);
+            this.txtQues.Size = new System.Drawing.Size(670, 166);
             this.txtQues.TabIndex = 0;
             this.txtQues.Text = "";
             // 
@@ -126,10 +127,21 @@ namespace LamTracNghiem
             this.panel2.Controls.Add(this.btnReset);
             this.panel2.Controls.Add(this.btnReload);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(548, 3);
+            this.panel2.Location = new System.Drawing.Point(869, 3);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(139, 646);
+            this.panel2.Size = new System.Drawing.Size(141, 646);
             this.panel2.TabIndex = 1;
+            // 
+            // btnReport
+            // 
+            this.btnReport.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnReport.Location = new System.Drawing.Point(26, 571);
+            this.btnReport.Name = "btnReport";
+            this.btnReport.Size = new System.Drawing.Size(90, 43);
+            this.btnReport.TabIndex = 14;
+            this.btnReport.Text = "Báo cáo đáp án sai";
+            this.btnReport.UseVisualStyleBackColor = false;
+            this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
             // 
             // lbTongSoCau
             // 
@@ -153,7 +165,7 @@ namespace LamTracNghiem
             // 
             this.lbSoCauDung.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbSoCauDung.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbSoCauDung.Location = new System.Drawing.Point(19, 174);
+            this.lbSoCauDung.Location = new System.Drawing.Point(16, 58);
             this.lbSoCauDung.Name = "lbSoCauDung";
             this.lbSoCauDung.Size = new System.Drawing.Size(97, 47);
             this.lbSoCauDung.TabIndex = 11;
@@ -172,7 +184,7 @@ namespace LamTracNghiem
             // 
             this.lbSoCauSai.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbSoCauSai.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbSoCauSai.Location = new System.Drawing.Point(19, 57);
+            this.lbSoCauSai.Location = new System.Drawing.Point(16, 177);
             this.lbSoCauSai.Name = "lbSoCauSai";
             this.lbSoCauSai.Size = new System.Drawing.Size(97, 47);
             this.lbSoCauSai.TabIndex = 9;
@@ -207,16 +219,6 @@ namespace LamTracNghiem
             this.btnReload.UseVisualStyleBackColor = true;
             this.btnReload.Click += new System.EventHandler(this.btnReload_Click);
             // 
-            // flowLayoutPanel1
-            // 
-            this.flowLayoutPanel1.AutoScroll = true;
-            this.flowLayoutPanel1.BackColor = System.Drawing.Color.White;
-            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(693, 3);
-            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(317, 646);
-            this.flowLayoutPanel1.TabIndex = 2;
-            // 
             // fluentDesignFormControl1
             // 
             this.fluentDesignFormControl1.FluentDesignForm = this;
@@ -246,16 +248,15 @@ namespace LamTracNghiem
             this.barButtonItem1.Name = "barButtonItem1";
             this.barButtonItem1.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem1_ItemClick);
             // 
-            // btnReport
+            // flowLayoutPanel1
             // 
-            this.btnReport.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btnReport.Location = new System.Drawing.Point(26, 571);
-            this.btnReport.Name = "btnReport";
-            this.btnReport.Size = new System.Drawing.Size(90, 43);
-            this.btnReport.TabIndex = 14;
-            this.btnReport.Text = "Báo cáo đáp án sai";
-            this.btnReport.UseVisualStyleBackColor = false;
-            this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
+            this.flowLayoutPanel1.AutoScroll = true;
+            this.flowLayoutPanel1.BackColor = System.Drawing.Color.White;
+            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(3, 3);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(184, 646);
+            this.flowLayoutPanel1.TabIndex = 3;
             // 
             // FluentDesignForm1
             // 
@@ -289,7 +290,6 @@ namespace LamTracNghiem
         private System.Windows.Forms.RichTextBox txtQues;
         private System.Windows.Forms.Panel panel2;
         private DevExpress.XtraBars.BarButtonItem barButtonItem1;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
         private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Button btnReload;
         private System.Windows.Forms.FlowLayoutPanel flPanelAns;
@@ -300,5 +300,6 @@ namespace LamTracNghiem
         private System.Windows.Forms.Label lbTongSoCau;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnReport;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
     }
 }

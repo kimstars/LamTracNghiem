@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
@@ -19,6 +18,9 @@ namespace LamTracNghiem
             public List<string> Answer { get; set; }
             public bool Status { get; set; } = false;
             public string Ans { get; set; }
+            public bool DaLam { get; set; } = false;
+            public bool Dung { get; set; } = false;
+            public string playerchon { get; set; }
         }
 
         public FluentDesignForm1()
@@ -78,7 +80,8 @@ namespace LamTracNghiem
             {
                 if (newques)
                 {
-                    tempques = new Question {
+                    tempques = new Question
+                    {
                         Ques = "",
                         Answer = new List<string>(),
                         Ans = "",
@@ -103,7 +106,7 @@ namespace LamTracNghiem
                 else
                 {
                     string ansTemp = "";
-                    for(int j = 0; j < dapan.Length; j++)
+                    for (int j = 0; j < dapan.Length; j++)
                     {
                         string startChar = dapan[j].ToString();
 
@@ -111,7 +114,7 @@ namespace LamTracNghiem
 
                         if (lines[i].StartsWith(startChar + "."))
                         {
-                            while (!lines[i].StartsWith(dapan[j+1].ToString()+"."))
+                            while (!lines[i].StartsWith(dapan[j + 1].ToString() + "."))
                             {
                                 if (lines[i].StartsWith("Câu")) break;
 
@@ -125,7 +128,7 @@ namespace LamTracNghiem
                     }
 
 
-                    
+
                     tempques.Ques = ques;
 
                     tempques.Ans = answer;
@@ -138,7 +141,8 @@ namespace LamTracNghiem
 
 
             }
-
+            var rnd = new Random();
+            Suffler.Shuffle(lstQuestion, rnd);
             //MessageBox.Show(lstQuestion.Count.ToString());
 
 
@@ -150,6 +154,7 @@ namespace LamTracNghiem
             newform.Show();
         }
 
+       
 
 
 
@@ -200,7 +205,7 @@ namespace LamTracNghiem
                 flowLayoutPanel1.Controls.Add(btn);
 
             }
-            Question oneques = lstQuestion[14];
+            Question oneques = lstQuestion[0];
 
             txtQues.Text = oneques.Ques;
 
@@ -208,12 +213,12 @@ namespace LamTracNghiem
 
             flPanelAns.Controls.Clear();
 
-            foreach(string ques in oneques.Answer)
+            foreach (string ques in oneques.Answer)
             {
                 flPanelAns.Controls.Add(newButton(ques));
 
             }
-           
+
 
             currentQues = 0;
             socaudung = 0;
@@ -266,14 +271,39 @@ namespace LamTracNghiem
             if (b != null)
             {
                 //MessageBox.Show(lstQuestion[Convert.ToInt32(b.Tag)].Ques);
-                LoadCauHoi(Convert.ToInt32(b.Tag));
+                currentQues = Convert.ToInt32(b.Tag);
+                LoadCauHoi(currentQues);
+            }
+
+            foreach (Control control in flPanelAns.Controls)
+            {
+                RadioButton btn = control as RadioButton;
+                if (lstQuestion[currentQues].DaLam)
+                {
+
+                    if (!lstQuestion[currentQues].Dung && btn != null && btn.Tag.ToString() == lstQuestion[currentQues].playerchon)
+                    {
+                        btn.ForeColor = Color.Red;
+                    }
+                    if (!lstQuestion[currentQues].Dung && btn != null && btn.Tag.ToString() == lstQuestion[currentQues].Ans)
+                    {
+                        //MessageBox.Show(radioButton.Tag.ToString());
+                        btn.ForeColor = Color.Green;
+                    }
+                }
+
             }
 
         }
 
+
         protected void checkDapan(object sender, EventArgs e)
         {
+
             RadioButton b = sender as RadioButton;
+            lstQuestion[currentQues].DaLam = true;
+            lstQuestion[currentQues].playerchon = b.Tag.ToString();
+
             if (lstQuestion[currentQues].Ans == b.Tag.ToString())
             {
                 b.ForeColor = Color.Green;
@@ -284,10 +314,11 @@ namespace LamTracNghiem
                     if (btn != null && btn.Tag.ToString() == currentQues.ToString())
                     {
                         btn.BackColor = Color.Green;
+                        btn.Text = currentQues.ToString() + lstQuestion[currentQues].Ans;
                         break;
                     }
                 }
-                socaudung += 1;
+                lstQuestion[currentQues].Dung = true;
             }
             else
             {
@@ -312,16 +343,46 @@ namespace LamTracNghiem
                         break;
                     }
                 }
-                socausai += 1;
+                lstQuestion[currentQues].Dung = false;
+
             }
 
 
 
-            lbSoCauDung.Text = socaudung.ToString();
-            lbSoCauSai.Text = socausai.ToString();
+
+
+            ReloadSoLuong();
+
             lbTongSoCau.Text = lstQuestion.Count.ToString();
+
+
+
         }
 
+        private void ReloadSoLuong()
+        {
+            socaudung = 0;
+            socausai = 0;
+            foreach (var item in lstQuestion)
+            {
+                if (item.DaLam)
+                {
+
+                    if (item.Dung)
+                    {
+                        socaudung += 1;
+                    }
+                    else
+                    {
+                        socausai += 1;
+                    }
+                }
+
+            }
+
+            lbSoCauDung.Text = socaudung.ToString();
+            lbSoCauSai.Text = socausai.ToString();
+        }
 
 
         private void btnReload_Click(object sender, EventArgs e)
@@ -332,6 +393,10 @@ namespace LamTracNghiem
 
             flPanelAns.Controls.Clear();
             txtQues.Text = "";
+            foreach (var item in lstQuestion)
+            {
+                item.DaLam = false;
+            }
 
             foreach (Control control in flowLayoutPanel1.Controls)
             {

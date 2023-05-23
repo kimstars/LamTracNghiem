@@ -59,9 +59,9 @@ namespace LamTracNghiem
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(36, 106);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(176, 17);
+            this.label3.Size = new System.Drawing.Size(197, 17);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Donate: 14riofdsaioofq345";
+            this.label3.Text = "Donate: 0866879105 MBbank";
             // 
             // label4
             // 
