@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
-
+using System.Net;
 
 namespace LamTracNghiem
 {
@@ -29,6 +29,24 @@ namespace LamTracNghiem
             InitializeComponent();
         }
         private OpenFileDialog openFileDialog1;
+
+        private void UpdateDeThi()
+        {
+            string remoteUri = "https://raw.githubusercontent.com/kimstars/LamTracNghiem/main/LamTracNghiem/HCTC.txt";     
+            string installDirectory = Application.StartupPath;
+            string dest = Path.Combine(installDirectory, "HCTC.txt");
+
+            using (WebClient webClient = new WebClient())
+            {
+                Console.WriteLine("Downloading file ...");
+
+                // Download the Web resource and save it into the destination
+                webClient.DownloadFile(remoteUri , dest);
+
+                Console.WriteLine("Successfully downloaded file ");
+            }
+        }
+
         private void btnLoadDe_ItemClick(object sender, ItemClickEventArgs e)
         {
             currentQues = 0;
@@ -67,7 +85,8 @@ namespace LamTracNghiem
         {
             lstQuestion = new List<Question>();
 
-            string[] lines = text.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+            //string[] lines = text.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+            string[] lines = text.Split(new string[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
             string dapan = "ABCDE";
 
             string ques = null;
@@ -159,6 +178,7 @@ namespace LamTracNghiem
 
         private void FluentDesignForm1_Load(object sender, EventArgs e)
         {
+            UpdateDeThi();
 
             if (File.Exists("./HCTC.txt"))
             {
@@ -173,7 +193,9 @@ namespace LamTracNghiem
 
         private void LoadDe(string path)
         {
-            string text = File.ReadAllText(path);
+            Encoding isoLatin1 = Encoding.UTF8;
+
+            string text = File.ReadAllText(path, isoLatin1);
             ExtractQuestions(text);
 
             flowLayoutPanel1.Controls.Clear();

@@ -51,12 +51,12 @@ Câu 6: Tổ chức hậu cần sự đoàn bộ binh thời bình gồm:B
 A. -Cơ quan hậu cần: chủ nhiệm hậu cần, phó chủ nhiệm hậu cần, các chuyên ngành (tham mưu hậu cần, quân nhu, quân y, doanh trại), trợ lý chính trị.
     -Các phân đội hậu cần: tiểu đoàn quân y, tiểu đoàn vận tải và bộ phận kho hậu cần
 B. -Cơ quan hậu cần: chủ nhiệm hậu cần, phó chủ nhiệm hậu cần, các ban chuyên ngành (tham mưu hậu cần, quân nhu, quân y, xăng dầu, doanh trại), trợ lý chính trị.
-    -Các phân đội hậu cần: tiểu đoàn quân y, tiểu đoản vận tải và bộ phận kho hậu cần
+    -Các phân đội hậu cần: tiểu đoàn quân y, tiểu đoàn vận tải và bộ phận kho hậu cần
 C. -Cơ quan hậu cần: chủ nhiệm hậu cần, phó chủ nhiệm hậu cần, các ban chuyên ngành (tham mưu hậu cần, quân nhu, quân y. xăng dầu), trợ lý chính trị.
     -Các phân đội hậu cần: tiểu đoàn quân y, tiểu đoàn vận tải và bộ phận kho hậu cần
 D. Cơ quan hậu cần: chủ nhiệm hậu cần, các ban chuyên ngành (tham mưu hậu cần, quân nhu, quân y, xăng dầu, doanh trại), trợ lý chính trị.
     -Các phân đội hậu cần: tiểu đoàn quân y, tiểu đoàn vận tải và bộ phận kho hậu cần
-Câu 7: Đối tượng bảo đảm của hậu cần Quân đội là...B
+Câu 7: Đối tượng bảo đảm của hậu cần Quân đội là...C
 A. Lực lượng, trang bị của Quân đội
 B. Con người, trang bị, phương tiện của Quân đội
 C. Lực lượng, phương tiện của Quân đội
@@ -110,7 +110,7 @@ D. 1. Tổ chức bảo đảm đường vận tải;
 Câu 14: Công tác quân nhu gồm có các mặt công tác cụ thể sau:B
 A. 1. Công tác quân lương;
     2. Công tác quân trang;
-    3. Công tác quận khí.
+    3. Công tác quân khí.
 B. 1. Công tác quân lương;
     2. Công tác quân trang;
     3. Công tác tăng gia sản xuất.
@@ -134,7 +134,7 @@ C. 1. Xây dựng cơ bản:
     2. Sửa chữa, chống dột, chống sập.
 D. 1. Xây dựng cơ bản:
     2. Bảo đảm doanh trại.
-Câu 17: Từ cấp nào thì tổ chức ra cơ quan hậu cân?A
+Câu 17: Từ cấp nào thì tổ chức ra cơ quan hậu cần?A
 A. Từ cấp trung đoàn và tương đương trở lên
 B. Từ cấp lữ đoàn và tương đương trở lên
 C. Từ cấp tiểu đoàn và tương đương trở lên
@@ -184,8 +184,8 @@ D. 9 trường hợp
 Câu 24: Căn cứ tổ chức, bảo đảm hậu cần trong chiến đấu nào sau đây là không đúng?B
 A. Khả năng mọi mặt của khu vực hậu phương, của hậu cần KVPT và khả năng khai thác hậu cần
 B. Khả năng của hậu cần đơn vị bạn và địa phương có liên quan.
-C. Âm mưu, thủ đoạn và khả năng hoạt động của địch.
-D, Địa hình, thời tiết, khí hậu, thuỷ văn địa bàn tác chiến.
+C.  m mưu, thủ đoạn và khả năng hoạt động của địch.
+D. Địa hình, thời tiết, khí hậu, thuỷ văn địa bàn tác chiến.
 Câu 25: Mạng đường vận tải trong tác chiến đến mỗi đầu mối bảo đảm gồm?C
 A. Đến mỗi đầu mối bảo đảm, ít nhất phải có một trục đường dọc, ngoài ra còn phải có các đường ngang, đường nhánh.
 B. Đến mỗi đầu mối bảo đảm, ít nhất phải có ba trục đường dọc.
@@ -214,8 +214,8 @@ D. Sở chỉ huy cơ bản.
 Câu 30: Lực lượng hậu cần bảo đảm trong mỗi trận chiến đấu (nói chung) gồm:B
 A. Lực lượng hậu cần của các đơn vị bạn và địa phương.
 B. Lực lượng hậu cần trong mỗi trận chiến đấu là lực lượng có trong biên chế của đơn vị đảm nhiệm nhiệm vụ chiến đấu, Lực lượng hậu cần được cấp trên tăng cường, phối thuộc: Lực lượng hậu cần được huy động tại địa phương.
-C. Lực lượng hậu cân nhân dân
-D. Lực lượng hậu cần trong mỗi trận chiến đấu là lực lượng có trong biên chế của đơn vị đam nhiệm nhiệm vụ chiến đấu; Lực lượng hậu cần được cấp trên tăng cường, phối thuộc,
+C. Lực lượng hậu cần nhân dân
+D. Lực lượng hậu cần trong mỗi trận chiến đấu là lực lượng có trong biên chế của đơn vị đảm nhiệm nhiệm vụ chiến đấu; Lực lượng hậu cần được cấp trên tăng cường, phối thuộc,
 Câu 31: Trong chiến đấu, cách bố trí lực lượng hậu cần nào sau đây là không đúng?D
 A. Trong mỗi bộ phận hậu cần, các thành phần lực lượng hậu cần được triển khai theo thứ tự: phía trước là trạm quân y, tiếp đến là lực lượng vận tải, kho xăng dầu; phía sau là kho quân lương, quân trang và các lực lượng khác.
 B. Tai vị trí xuất phát tiến công hoặc vị trí chiếm lĩnh trận địa phòng ngự, lực lượng hậu cần thường vào triển khai cùng lúc với bộ đội vào chiếm lĩnh trận địa.
@@ -243,7 +243,7 @@ C. 4
 D. 3
 Câu 35: Ban Tài chính Sư đoàn là:C
 A. Đơn vị dự toán cấp cơ sở
-B, Đáp án khác
+B. Đáp án khác
 C. Đơn vị dự toán cấp trung gian
 D. Đơn vị dự toán cấp chủ quản
 Câu 36: Cục Quân khí/ Tổng cục Kỹ thuật là đơn vị dự toán cấp mấy?D
@@ -262,7 +262,7 @@ A. 5
 B. 3
 C. 2
 D. 4
-Câu 38: ….. là việc theo định kỳ quy định, cơ quan tài chính cấp dưới phải tập hợp toàn bộ kết quả sử dụng ngân sách, lập báo cáo tài chính, kèm theo các loại chứng từ, sổ sách liên quan, trình người chỉ huy thông qua. Sau đó, theo thời gian quy định, cùng với người chỉ huy cấp mình lên bảo cáo, thuyết minh tình hình chấp hành ngân sách với người chỉ huy và cơ quan tài chính cấp trên, được người chỉ huy và cơ quan tài chính cấp trên chấp nhận, bảo đảm tính hợp pháp, hợp lệ, hoàn thành nhiệm vụ chi tiêu trong kỳ kế toán.C
+Câu 38: ….. là việc theo định kỳ quy định, cơ quan tài chính cấp dưới phải tập hợp toàn bộ kết quả sử dụng ngân sách, lập báo cáo tài chính, kèm theo các loại chứng từ, sổ sách liên quan, trình người chỉ huy thông qua. Sau đó, theo thời gian quy định, cùng với người chỉ huy cấp mình lên báo cáo, thuyết minh tình hình chấp hành ngân sách với người chỉ huy và cơ quan tài chính cấp trên, được người chỉ huy và cơ quan tài chính cấp trên chấp nhận, bảo đảm tính hợp pháp, hợp lệ, hoàn thành nhiệm vụ chi tiêu trong kỳ kế toán.C
 A. Thanh toán tài chính
 B. Tổng quyết toán tài chính
 C. Quyết toán tài chính
@@ -420,7 +420,7 @@ D. 1. Bảo đảm đầy đủ, kịp thời mọi mặt về hậu cần;
     3. Tổ chức quản lý vật chất kỹ thuật hậu cần;
     4. Tổ chức củng cố ngành hậu cần.
 Câu 11: Chọn đáp án đúngB
-A. Phòng hậu cần sự đoàn và tương đương là hậu cần cấp chiến thuật, có chức năng làm than mưu cho chỉ huy sư đoàn (tương đương về công tác hậu cần, trực tiếp giúp chị huy sư đoàn tố chức, chỉ đạo bảo đảm hậu cần cho đơn vị, tổ chức, chỉ đạo sản xuất, tạo nguồn bảo đảm hệ cần; quản lý hậu cần và xây dựng ngành hậu cần theo phân cấp.
+A. Phòng hậu cần sự đoàn và tương đương là hậu cần cấp chiến thuật, có chức năng làm tham mưu cho chỉ huy sư đoàn (tương đương về công tác hậu cần, trực tiếp giúp chị huy sư đoàn tổ chức, chỉ đạo bảo đảm hậu cần cho đơn vị, tổ chức, chỉ đạo sản xuất, tạo nguồn bảo đảm hệ cần; quản lý hậu cần và xây dựng ngành hậu cần theo phân cấp.
 B. Phòng hậu cần sự đoàn và tương đương là hậu cần cấp chiến thuật, có chức năng làm tham mưu cho đảng uỷ, chỉ huy sư đoàn (tương đương) về công tác hậu cần, trực tiếp giúp sư đoàn trưởng tổ chức, chỉ đạo bảo đảm hậu cần cho đơn vị, tổ chức, chỉ đạo sản xuất, tạo nguồn báo đảm hậu cần; quản lý hậu cần và xây dựng ngành hậu cần theo phân cấp.
 C. Phòng hậu cần sự đoàn và tương đương là hậu cần cấp lược, có chức năng làm tham mưu cho đảng uỷ, chỉ huy sư đoàn (tương đương) về công tác hậu cần, trực tiếp giúp sư đoàn trưởng tổ chức, chỉ đạo bảo đảm hậu cần cho đơn vị, tổ chức, chỉ đạo sản xuất, tạo nguồn bảo đảm hậu cần; quản lý hậu cần và xây dựng ngành hậu cần theo phân cấp.
 D. Phòng hậu cần sự đoàn và tương đương là hậu cần cấp chiến dịch, có chức năng làm tham mưu cho đảng uỷ, chỉ huy sư đoàn (tương đương) về công tác hậu cần, trực tiếp giúp sư đoàn trưởng tổ chức, chỉ đạo bảo đảm hậu cần cho đơn vị; tổ chức, chỉ đạo sản xuất, tạo nguồn bảo đảm hậu cần; quản lý hậu cần và xây dựng ngành hậu cần theo phân cấp.
@@ -487,7 +487,7 @@ A. "Triệu tập các trưởng ngành, phân đội trưởng để phổ bi�
 B. "Điều chỉnh kế hoạch hậu cần chuyển trạng thái SSCĐ"
 C. "Triển khai thực hiện các nhiệm vụ tổ chức, bảo đảm hậu cần"
 D. "Nắm tình hình hậu cần, lên Sở Chỉ huy nhận nhiệm vụ"
-Câu 23: Yêu cầu về bảo đảm hậu cần trong chuyên trạng thái sẵn sàng chiến đấu là phải chuẩn bị hậu cần chu đáo, toàn diện trên các mặt sau:A
+Câu 23: Yêu cầu về bảo đảm hậu cần trong chuyển trạng thái sẵn sàng chiến đấu là phải chuẩn bị hậu cần chu đáo, toàn diện trên các mặt sau:A
 A. 1. Chuẩn bị về lực lượng hậu cần;
     2. Chuẩn bị về vật chất, phương tiện hậu cần;
     3. Thường xuyên duy trì sẵn sàng chiến đấu về hậu cần
@@ -548,7 +548,7 @@ D. Sở chỉ huy cơ bản; Sở chỉ huy phía trước; Sở chỉ huy bổ 
 Câu 33: Tổ chức vận tải trong chiến đấu được thực hiện theo nguyên tắc nào?B
 A. Cấp trên vận chuyển.
 B. Cấp trên vận tải vật chất xuống cho cấp dưới và vận chuyển TB, BB về tuyến sau là chủ yếu, kết hợp trên, dưới cùng vận chuyển. Giai đoạn trước và sau chiến đấu, cấp dưới tự vận chuyển là chính, tranh thủ khả năng chuyển thẳng hoặc chuyển vượt cấp của trên. Giai đoạn thực hành chiến đấu, cấp trên vận chuyển cho cấp dưới là chủ yếu, kết hợp cấp trên và cấp dưới cùng vận chuyển.
-C. Cấp dưới và địa phượng vận chuyển.
+C. Cấp dưới và địa phương vận chuyển.
 D. Cấp dưới tự vận chuyển.
 Câu 34: Cơ quan Tài chính/ Trung đoàn là:B
 A. Cấp chiến thuật
@@ -860,7 +860,7 @@ A. 4
 B. 5
 C. 3
 D. 2
-Câu 35: Trong thời binh nguồn thu tài chính các đơn vị có thể là:A
+Câu 35: Trong thời bình nguồn thu tài chính các đơn vị có thể là:A
 - Nguồn thu từ ngân sách quốc phòng;
 - Nguồn thu từ ngân sách nhà nước trực tiếp giao
 - Nguồn thu từ ngân sách địa phương:
@@ -966,7 +966,7 @@ C. Sổ sách kế toán
 D. Công tác kế toán
 Câu 49: ... là những chứng từ gốc phản ánh trực tiếp, tại chỗ các nghiệp vụ kinh tế, tài chính phát sinh như: hoá đơn mua, bán hàng, lệnh thu, chi quỹ, phiếu xuất, nhập vật tưB
 A. Chức từ liên hợp
-B. Chúng từ ban đầu
+B. Chứng từ ban đầu
 C. Chứng từ tổng hợp
 D. Chứng từ ghi 1 lần
 Câu 50: Đặc điểm của công tác kế toán ở đơn vị dự toán quân đội:B
@@ -983,19 +983,19 @@ A. Chuẩn bị hậu cần chu đáo, toàn diện, sẵn sàng bảo đảm ch
 B. Chuẩn bị hậu cần chu đáo, toàn diện, sẵn sàng bảo đảm cho đơn vị bạn thực hiện nhiệm vụ chiến đấu.
 C. Tổ chức khai thác tạo nguồn bảo đảm hậu cần, tiếp nhận vật chất bổ sung, dự trữ các cấp đúng quy định, quản lý chặt chẽ và sẵn sàng bảo đảm cho các nhiệm vụ khác, hoặc cho nhiệm vụ phát triển.
 D. Triển khai, bố trí các thành phần, lực lượng hậu cần chiến đấu,kết hợp với hậu cần KVPT hình thành thế liên hoàn, nhiệm vụ và quyết tâm chiến đấu của người chỉ huy.
-Câu 2: Trong chuyển trạng thái SSCD, ngành hậu cần phải thực hiện chuyển trạng thái SSCĐ gồm các công việc chủ yếu sau:D
+Câu 2: Trong chuyển trạng thái SSCĐ, ngành hậu cần phải thực hiện chuyển trạng thái SSCĐ gồm các công việc chủ yếu sau:D
 A. 1. Làm công tác chuẩn bị tại khu vực đóng quân thường xuyên.
      2. Tiến hành cơ động ra khu vực đóng quân bí mật.
-     3. Tổ chưc hoạt động tại khu vực đóng quân bí mật.
+     3. Tổ chức hoạt động tại khu vực đóng quân bí mật.
 B. 1. Làm công tác chuẩn bị tại khu vực đóng quân thường xuyên.
-     2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mât.
-     3. Tổ chưc hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
+     2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mật.
+     3. Tổ chức hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
 C. 1. Làm công tác chuẩn bị tại khu tập kết.
-     2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mât.
-     3. Tổ chưc hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
+     2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mật.
+     3. Tổ chức hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
 D. 1. Làm công tác chuẩn bị tại khu vực đóng quân thường xuyên.
-     2. Tiến hành cơ động ra khu sơ tán hoặc khu vực đóng quân bí mât.
-     3. Tổ chưc hoạt động tại khu sơ tán hoặc khu vực đóng quân bí mật.
+     2. Tiến hành cơ động ra khu sơ tán hoặc khu vực đóng quân bí mật.
+     3. Tổ chức hoạt động tại khu sơ tán hoặc khu vực đóng quân bí mật.
 Câu 3: Kinh phí nghiệp vụ gồm:A
 •	Kinh phí nghiệp vụ ngành tham mưu
 •	Kinh phí nghiệp vụ ngành chính trị.
@@ -1032,7 +1032,7 @@ Câu 7. Lực lượng vận tải trong chiến đấu thường gồm:D
 A. Sử dụng phương tiện vận tải cơ giới kết hợp sử dụng kết hợp các phương tiện thô sơ và lực lượng vận tải bộ
 B. Nhân dân tham gia vận tải
 C. Từ cấp tiểu đoàn trở xuống sử dụng lực lượng tải bộ và phương tiện vận tải thô sơ.
-D. Lực lượng vận tải của đơn vị đảm nhiệm nhiệm vụ chiến đấu. Lực lượng được tăng cường của trên, lực lượng cảu KVPT.
+D. Lực lượng vận tải của đơn vị đảm nhiệm nhiệm vụ chiến đấu. Lực lượng được tăng cường của trên, lực lượng của KVPT.
 Câu 8. Căn cứ tổ chức, bảo đảm hậu cần trong chiến đấu nào sau đây là không đúng?A
 A. Nhiệm vụ của đơn vị bạn, quyết tâm và kế hoạch tác chiến của người chỉ huy.
 B. Nhiệm vụ của đơn vị, quyết tâm và kế hoạch tác chiến của người chỉ huy.
@@ -1050,9 +1050,9 @@ C. Chứng từ ghi 1 lần
 D. Chứng từ ban đầu
 Câu 11: Biện pháp bảo vệ lực lượng hậu cần trong chiến đấu nào sau đây là không phù hợp:A
 A. Bố trí tập trung các thành phần, lực lượng hậu cần.
-B. Tổ chưc tuần tra canh gác, duy trì nghiêm các chế độ thường trực, quy định các ký, tín hiệu phòng giam bảo mật, đi lại .. cần.
+B. Tổ chức tuần tra canh gác, duy trì nghiêm các chế độ thường trực, quy định các ký, tín hiệu phòng giam bảo mật, đi lại .. cần.
 C. Xây dựng đủ bảo đảm cho người, phương tiện, vật chất và các cơ sở BĐHC như: phòng mổ, nơi cấp cứu.
-D. Tở chức ngụy trang che dấu lực lượng, nghi trang, nghi binh lừa địch.
+D. Tổ chức ngụy trang che dấu lực lượng, nghi trang, nghi binh lừa địch.
 Câu 12 Nhiệm vụ cơ bản của hậu cần chiến đấu là:B
 A. Hậu cần chiến đấu phải bảo đảm kịp thời, đầy đủ, chính xác theo quy định cho các lực lượng tác chiến hoàn thành nhiệm vụ, chuẩn bị mọi mặt về hậu cần, sẵn sàng bảo đảm cho nhiệm vụ tiếp theo hoặc chi viện bảo đảm khi cần thiết.
 B. Hậu cần chiến đấu phải bảo đảm kịp thời, đầy đủ, chính xác theo quy định về vật chất, sinh hoạt, quân y và vận tải cho các lực lượng tác chiến hoàn thành nhiệm vụ. Đồng thời tích cực chuẩn bị mọi mặt về hậu cần, sẵn sàng bảo đảm cho nhiệm vụ tiếp theo hoặc chi viện bảo đảm khi cần thiết.
@@ -1070,16 +1070,16 @@ D. 1. Khả năng về lực lượng, nhân lực
 Câu 14: công tác hậu cần thường xuyên gồm các nội dung chủ yếu sau:D
 A. 1. Thực hiện công tác hậu cần sscđ
      2. Công tác tham mưu hậu cần, quân nhu, quân y, vận tải, xăng dầu, doanh trại
-     3. quản lí hậu cần
+     3. quản lý hậu cần
 B. 1. Tổ chức bảo đảm hậu cần
 	   2. Sản xuất tạo nguồn
-     3. quản lí hậu cần
+     3. quản lý hậu cần
 C. 1. Bảo đảm vật chất
      2. Bảo đảm sinh hoạt
      3. Bảo đảm quân y
 D. 1. Công tác tham mưu hậu cần
      2. Công tác tham mưu hậu cần, quân nhu, quân y, vận tải, xăng dầu, doanh trại
-     3. quản lí hậu cần
+     3. quản lý hậu cần
      4. xây dựng ngành hậu cần
 Câu 15: Đặc điểm bảo đảm hậu cần trong tác chiến, đặc điểm nào đúng.D
 A. Phải bảo đảm cho nhiều hình thức tác chiến khác nhau, khối lượng bảo đảm lớn, khẩn trương, phức tạp, có tính chiến đấu cao
@@ -1106,7 +1106,7 @@ A. Sở chỉ huy cơ bản, Sở chỉ huy phía trước, SCH phía sau(hậu 
 B. Sở chỉ huy cơ bản, SCH phía sau
 C. Sở chỉ huy cơ bản, Sở chỉ huy phía trước, Sở chỉ huy hỗ trợ, SCH dự bị
 D. Sở chỉ huy cơ bản
-Câu 19: Tổ chứ vận tải trong chiến đấu được thực hiện theo nguyên tắc nào?A
+Câu 19: Tổ chức vận tải trong chiến đấu được thực hiện theo nguyên tắc nào?A
 A. Cấp trên vận tải vật chất xuống cho cấp dưới và vận chuyển TB, BB về tuyến sau là chủ yếu kết hợp trên dưới cùng vận chuyển. Giai đoạn trước và sau chiến đấu, cấp dưới tự vận chuyển là chính tranh thủ khả.
 B. Cấp dưới và địa phương vận chuyển
 C. Cấp dưới tự vận chuyển 
@@ -1130,26 +1130,26 @@ A. Là 1 bộ phận HCQĐ ở địa phương huyện là một thành phần c
 B. Là bộ phận của hậu cần nhân dân ở địa phương.
 C. Là bộ phận quan trọng trong thành phần hậu cần nhân dân.
 D. Là hậu cần địa phương.
-Câu 22: …. Là khoản kinh phí thuộc nội dung chi ngân sách quốc phòng dùng để mua lương thực , thực phẩm chất đốt phục vụ việc ăn uốg hằng ngày của bộ đội, nhằm bù đắp hao phí sức lao động và nâng cao sức khỏe trong quá trình luyện tập công tác và chiến đấu.B
+Câu 22: …. Là khoản kinh phí thuộc nội dung chi ngân sách quốc phòng dùng để mua lương thực , thực phẩm chất đốt phục vụ việc ăn uống hằng ngày của bộ đội, nhằm bù đắp hao phí sức lao động và nâng cao sức khỏe trong quá trình luyện tập công tác và chiến đấu.B
 A. Tiền lương trong quân đội
 B. Tiền ăn trong qđ
 C. Tiền phụ cấp trong qđ
 D. Tiền bảo hiểm trong qđ
-Câu 23: ….là việc thu thập xử lí, kiểm tra, phan tích và cung cấp thông tin kinh tế, tài chính dưới hình thức giá trị hiện vật, thời gian lao động và tính toán , ghi chép tình hình hoạt động TC, sự biến động tăng giảm giá trị tài sản vật tư, tiền vốn trong 1 tổ chức (đơn vị) được tiến hành trên cơ sở chế độ kế toán và luật tài chính kế toán.A
+Câu 23: ….là việc thu thập xử lý, kiểm tra, phân tích và cung cấp thông tin kinh tế, tài chính dưới hình thức giá trị hiện vật, thời gian lao động và tính toán , ghi chép tình hình hoạt động TC, sự biến động tăng giảm giá trị tài sản vật tư, tiền vốn trong 1 tổ chức (đơn vị) được tiến hành trên cơ sở chế độ kế toán và luật tài chính kế toán.A
 A. Công tác kế toán
 B. Tài khoản kế toán
 C. Sổ sách kế toán
 D. Kế toán 
-Câu 24: Khám tuyển quân do cơ quan, đơn vị nao thực hiện:D
+Câu 24: Khám tuyển quân do cơ quan, đơn vị nào thực hiện:D
 A. Quân y đơn vị nhận quân
 B. do quân y Quân sự địa phương
 C.  do quân y Quân sự địa phương và y tế địa phương
-D.Do y tế địa phương.
- Câu 25: Trong chuyển trạng thái SSCĐ, cơ quan Hậu cần phải tiến hành những công việc:C
+D.  Do y tế địa phương.
+Câu 25: Trong chuyển trạng thái SSCĐ, cơ quan Hậu cần phải tiến hành những công việc:C
 A.  1. Bảo đảm Hậu cần cho các đơn vị thực hiện nhiệm vụ.
-2. Tổ chức di chuyển cơ quan và các phân đội Hậu cần thuộc quyền 
+      2. Tổ chức di chuyển cơ quan và các phân đội Hậu cần thuộc quyền 
 B.  1. Bảo đảm Hậu cần cho các đơn vị thực hiện nhiệm vụ.
-    2. Tổ chức cơ động cơ quan và các phân đội Hậu cần thuộc quyền
+      2. Tổ chức cơ động cơ quan và các phân đội Hậu cần thuộc quyền
 C.  1. Bảo đảm Hậu cần cho các đơn vị thực hiện nhiệm vụ.
       2. Tổ chức chuyển trạng thái SSCĐ cho các cơ quan và các phân đội Hậu cần thuộc quyền.
 D. 1. Bảo đảm vật chất Hậu cần cho các đơn vị thực hiện nhiệm vụ.
@@ -1165,13 +1165,13 @@ B.	Cấp chiến lược
 C.	Cấp chiến dịch.
 D.	Cấp chiến lược và chiến dịch.
 Câu 28: Hậu cần quân đội có 4 nhiệm vụ trọng tâm : D
-A. 1. Bảo đảm dầy đủ, kịp thời mọi mặt về hậu cần.
+A. 1. Bảo đảm đầy đủ, kịp thời mọi mặt về hậu cần.
      2. Tổ chức tạo nguồn, tiếp nhận, dự trữ, cấp phát.
-     3. Tổ chức quản lý Vật chất, kĩ thuật hậu cần.
-B. 1. Bảo dảm đầy đủ kịp thời mọi mặt về Vật chất. 
+     3. Tổ chức quản lý Vật chất, kỹ thuật hậu cần.
+B. 1. Bảo đảm đầy đủ kịp thời mọi mặt về Vật chất. 
      2. Tổ chức tạo nguồn, tiếp nhận, dự trữ, cấp phát. 
      3. Tổ chức quản lý Hậu cần. 
-C. 1. Bảo dảm đầy đủ kịp thời mọi mặt về Vật chất. 
+C. 1. Bảo đảm đầy đủ kịp thời mọi mặt về Vật chất. 
      2. Tổ chức tạo nguồn, tiếp nhận, dự trữ, cấp phát. 
      3. Tổ chức quản lý Hậu cần. 
 D. 1. Bảo đảm kịp thời, đầy đủ mọi mặt về hậu cần.
@@ -1188,12 +1188,12 @@ A.	2
 B.	1
 C.	4
 D.	3
-Câu 30 : Phòng kĩ thuật Sư đoàn có : D
+Câu 30 : Phòng kỹ thuật Sư đoàn có : D
 A. Trợ lý tài chính 
 B. Ban Tài chính
 C. Nhân viên tài chính
 D. Không có cơ quan tài chính
-Câu 31: hậu cần quân sự kĩ thuật địa phương quân sự huyện bảo đảm đầy đủ mọi mặt về vật chất, sinh hoạt quân y, kĩ thuật , công tác vận tải choC
+Câu 31: hậu cần quân sự kỹ thuật địa phương quân sự huyện bảo đảm đầy đủ mọi mặt về vật chất, sinh hoạt quân y, kỹ thuật , công tác vận tải choC
 A. Công an, biên phòng ở địa phương
 B. bộ đội địa phương và dân quân tự vệ
 C. bộ đội địa phương
@@ -1202,7 +1202,7 @@ Câu 32: Công tác hậu cần quân đội làD
 A. Một mặt của công tác bảo đảm bao gồm bảo đảm về vật chất, bảo đảm về sinh hoạt, bảo đảm về quân y
 B. một mặt của công tác quân sự bao gồm tổng thể các hoạt động bảo đảm quân nhu, quân y , doanh trại, vận tải
 C. một mặt của công tác tham mưu bao gồm tổng thể các hoạt động bảo đảm quân nhu, quân y,doanh trại, xăng dầu, vận tải
-D. một mặt của công tác quân sự bao gồm tổng thể các hoạt dộng bảo đảm về vật chất, sinh hoạt…..
+D. một mặt của công tác quân sự bao gồm tổng thể các hoạt động bảo đảm về vật chất, sinh hoạt…..
 Câu 33 Trong các nội dung, biện pháp bảo đảm hậu cần trong chuyển trạng thái SSCĐ chủ nhiệm hậu cần sau khi quán triệt nhiệm vụ nghiên cứu đánh giá tình hình hậu cần sẽ làm việc nào sau đâyC
 A. nắm chắc tình hình hậu cần lên sở chỉ huy nhận nhiệm vụ
 B. điều chỉnh kế hoạch hậu cần chuyển trạng thái SSCĐ
@@ -1210,7 +1210,7 @@ C. triệu tập các trưởng ngành, phân đội trưởng để phổ biế
 D. triển khai tổ chức thực hiện các nhiệm vụ bảo đảm hậu cần
 Câu 34 Ban tài chính sư đoàn làD
 A. đơn vị dự toán cấp cơ sở
-B. đợn vị dự toán cấp chủ quản
+B. đơn vị dự toán cấp chủ quản
 C. đáp án khác
 D. đơn vị dự toán cấp trung gian
 Câu 35 Hậu cần quân đội làC
@@ -1228,7 +1228,7 @@ A. Lữ đoàn hoặc tương đương trở lên
 B. Trung đoàn hoặc tương đương trở lên
 C. Sư đoàn hoặc tương đương trở lên
 D. Tiểu đoàn hoặc tương đương trở lên
-Câu 38. Chuyên nghành vận tải được tổ chức thành hệ thống từ BQP xuống đơn vị cơ sở. trong đó:B
+Câu 38. Chuyên ngành vận tải được tổ chức thành hệ thống từ BQP xuống đơn vị cơ sở. trong đó:B
 A. Cấp chiến dịch, chiến thuật đc tổ chức thành cơ quan vận tải
 B. Cấp chiến lược, chiến dịch được tổ chức thành cơ quan vận tải
 C. cấp sư đoàn và tương đương được tổ chức thành cơ quan vận tải
@@ -1265,7 +1265,7 @@ A. 1. Công tác vệ sinh phòng dịch
 B. 1. Công tác vệ sinh phòng dịch
 	   2. Công tác điều trị dự phòng
 	   3. Công tác tiếp tế vật tư quân y
-C. 1. Công tác vệ sinh mội trường
+C. 1. Công tác vệ sinh môi trường
 	   2. Công tác điều trị dự phòng
 	   3. Công tác tiếp tế vật tư quân y.
 D. 1. Công tác vệ sinh phòng dịch
@@ -1341,45 +1341,47 @@ D. Nhiệm vụ của đơn vị bạn, quyết tâm và kế hoạch tác chi�
 Câu 3: Trong chuyển trạng thái SSCĐ, ngành hậu cần cần phải thực hiện nhiệm vụ chuyển TTSSCĐ gồm các công việc chủ yếu sau đây:D
 A. 1. Làm công tác chuẩn bị tại khu vực đóng quân thường xuyên.
      2. Tiến hành cơ động ra khu vực đóng quân bí mật.
-     3. Tổ chưc hoạt động tại khu vực đóng quân bí mật.
+     3. Tổ chức hoạt động tại khu vực đóng quân bí mật.
 B. 1. Làm công tác chuẩn bị tại khu vực đóng quân thường xuyên.
-     2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mât.
-     3. Tổ chưc hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
+     2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mật.
+     3. Tổ chức hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
 C. 1. Làm công tác chuẩn bị tại khu tập kết.
-   2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mât.
-   3. Tổ chưc hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
+   2. Tiến hành cơ động ra khu vực tập kết hoặc khu vực đóng quân bí mật.
+   3. Tổ chức hoạt động tại khu tập kết hoặc khu vực đóng quân bí mật.
 D. 1. Làm công tác chuẩn bị tại khu vực đóng quân thường xuyên.
-     2. Tiến hành cơ động ra khu sơ tán hoặc khu vực đóng quân bí mât.
-     3. Tổ chưc hoạt động tại khu sơ tán hoặc khu vực đóng quân bí mật.
-Câu 8: Biện pháp quản lí kinh phí nghiệp vụ:A
+     2. Tiến hành cơ động ra khu sơ tán hoặc khu vực đóng quân bí mật.
+     3. Tổ chức hoạt động tại khu sơ tán hoặc khu vực đóng quân bí mật.
+Câu 8: Biện pháp quản lý kinh phí nghiệp vụ:A
 -	Nắm vững chế độ, tiêu chuẩn, định mức
--	Kết hợp quản lí chỉ tiêu phần tiền với chỉ tiêu phần hiện vật theo phương thức tiền tệ hóa
+-	Kết hợp quản lý chỉ tiêu phần tiền với chỉ tiêu phần hiện vật theo phương thức tiền tệ hóa
 -	Nâng cao trách nhiệm vật chất trong quản lý kinh phí nghiệp vụ 
 -	Tăng cường khả năng tạo nguồn tài chính của đơn vị
  Chọn số lượng các phương án đúng:
-A.	3									C. 4
-B.	2									D. 1
+A.3									
+C. 4
+B.2									
+D. 1
 Câu 9: Nội dung công tác xây dựng ngành hậu cần gồm :D
-A. 1. Xây dựng chức năng, nhiệm vụ ngành hậu cần
-     2. Xây dựng nền nếp công tác
-   3. Tổ chức huấn luyện hậu cần tại chức và nghiên cứu khoa học hậu cần
-B. 1. Xây dựng tổ chức, biên chế, trang bị hậu cần
-	   2. Xây dựng nền nếp công tác
-	   3. Tổ chức huấn luyện hậu cần tại chức và nghiên cứu khoa học hậu  cần
-C. 1. Xây dựng hệ thống tổ chức hậu cần
+A. 	1. Xây dựng chức năng, nhiệm vụ ngành hậu cần
+     	2. Xây dựng nền nếp công tác
+     	3. Tổ chức huấn luyện hậu cần tại chức và nghiên cứu khoa học hậu cần
+B. 	1. Xây dựng tổ chức, biên chế, trang bị hậu cần
+     	2. Xây dựng nền nếp công tác
+     	3. Tổ chức huấn luyện hậu cần tại chức và nghiên cứu khoa học hậu  cần
+C. 	1. Xây dựng hệ thống tổ chức hậu cần
 	   2. Xây dựng nền nếp công tác
 	   3. Tổ chức huấn luyện hậu cần tại chức và nghiên cứu khoa học hậu cần
-D. 1. Xây dựng lực lượng cán bộ, nhân viên hậu cần
+D. 	1. Xây dựng lực lượng cán bộ, nhân viên hậu cần
 	   2. Xây dựng nền nếp công tác
 	   3. Tổ chức huấn luyện hậu cần tại chức và nghiên cứu khoa học hậu cần
 	   4. Tiến hành công tác đảng, công tác chính trị trong ngành hậu cần
 Câu 14: Công tác bảo đảm hậu cần bao gồm những nội dung công việc sau:C
 A. 1. Tổ chức hậu cần
 	   2. Sản xuất tạo nguồn
-	   3. Quản lí hậu cần
+	   3. Quản lý hậu cần
 B. 1. Tổ chức, bảo đảm hậu cần
 	   2. Sản xuất tạo nguồn
-	   3. Quản lí hậu cần
+	   3. Quản lý hậu cần
 C. 1. Bảo đảm vật chất
 	   2. Bảo đảm sinh hoạt
 	   3. Bảo đảm quân y  
@@ -1393,7 +1395,7 @@ A. Tham mưu hc, quân trang, quân y, doanh trại, xăng dầu, vận tải
 B. Tham mưu hc, quân nhu, quân y, doanh trại, xăng dầu, vận tải
 C. Tham mưu hc, quân huấn, quân y, doanh trại, xăng dầu, vận tải
 D. Tham mưu hc, quân lương, quân y, doanh trại, xăng dầu, vận tải
-Câu 20: hậu cần kĩ thuật quân sự địa phương huyện bảo đảm đầy  đủ, toàn diện mọi mặt về vật chất, sinh hoạt, quân y, kĩ thuật, công tác vận tải cho :B 
+Câu 20: hậu cần kỹ thuật quân sự địa phương huyện bảo đảm đầy  đủ, toàn diện mọi mặt về vật chất, sinh hoạt, quân y, kỹ thuật, công tác vận tải cho :B 
 A.	Công an, biên phòng ở địa phương
 B.	Bộ đội địa phương 
 C.	Bộ đội địa phương và dân quân tự vệ.
@@ -1408,44 +1410,44 @@ B. Việc phân cấp dự trữ vật chất được căn cứ vào nhiệm v�
 C. Dự trữ phải phù hợp với khả năng mang vác của bộ đội
 D. Là lượng vật chất do cấp trên quy định cho cấp dưới.
 Câu 31 chuyên ngành vận tải được tổ chức thành hệ thống từ BQP tới đơn vị cơ sở. trong đóC
-A Cấp chiến dịch, chiến thuật được tổ chức thành cơ quan vận tải
-B cấp sư đoàn và tương đương trở lên được tổ chức thành cơ quan vận tải
-C cấp chiến lược, chiến dịch được tổ chức thành cơ quan vận tải
-D Cấp lữ đoàn hoặc tương đương trở lên được tổ chức thành cơ quan vận tải
-Câu 33 Trong chiến dấu, cấp trung đoàn thường tổ chức các sở chỉ huy nàoC
-A sở chỉ huy cơ bản, sở chỉ huy phía trước, sở chỉ huy bổ trợ, sở chỉ huy dự bị
-B Sở chỉ huy cơ bản, sỏ chỉ huy phía sau
-C sở chỉ huy cơ bản
-D sở chỉ huy cơ bản, sở CH phía trước, SCH phía sau, sở chỉ huy…..
+A. Cấp chiến dịch, chiến thuật được tổ chức thành cơ quan vận tải
+B. cấp sư đoàn và tương đương trở lên được tổ chức thành cơ quan vận tải
+C. cấp chiến lược, chiến dịch được tổ chức thành cơ quan vận tải
+D. Cấp lữ đoàn hoặc tương đương trở lên được tổ chức thành cơ quan vận tải
+Câu 33 Trong chiến đấu, cấp trung đoàn thường tổ chức các sở chỉ huy nàoC
+A. sở chỉ huy cơ bản, sở chỉ huy phía trước, sở chỉ huy bổ trợ, sở chỉ huy dự bị
+B. Sở chỉ huy cơ bản, sở chỉ huy phía sau
+C. sở chỉ huy cơ bản
+D. sở chỉ huy cơ bản, sở CH phía trước, SCH phía sau, sở chỉ huy…..
 Câu 34 Công tác quân y gồm các mặt công tác cụ thể sauD
-A 1 công tác vệ sinh phòng dịch
+A. 1 công tác vệ sinh phòng dịch
     2 Công tác điều trị thương bệnh binh
-    3 Coog tác tiếp tế vật tư quân y
-B 1. công tác vệ sinh phòng dịch
+    3 Công tác tiếp tế vật tư quân y
+B. 1. công tác vệ sinh phòng dịch
     2. công tác điều trị quân nhân
     3. công tác tiếp tế thuốc men
-C 1. công tác vệ sinh MT
+C. 1. công tác vệ sinh MT
     2. công tác điều trị dự phòng
-    3. Coog tác tiếp tế vật tư quân y
-D 1. công tác vệ sinh phòng dịch
+    3. Công tác tiếp tế vật tư quân y
+D. 1. công tác vệ sinh phòng dịch
    2. công tác điều trị dự phòng
    3. Công tác tiếp tế vật tư quân y
-   4. công tác huấn luyện và nghiên cứu khoa học kĩ thuật quân y
+   4. công tác huấn luyện và nghiên cứu khoa học kỹ thuật quân y
 Câu 37. Tổ chức vận tải trong chiến đấu được thực hiện theo nguyên tắc nào?C
 A. Cấp dưới và địa phương vận chuyển
 B. Cấp dưới tự vận chuyển
 C. Cấp trên vận tải vc xuống cho cấp dưới và vận chuyển TB, BB về tuyến sau là chủ yếu, kết hợp trên, dưới cùng vận chuyển.
-Câu 40. Tại sao Tổ chức hoạt động, BĐHC, kỹ thuật luôn gắn bó chặt chẽ với địa giới hành chính và hoat động của địa phương?A
-A. Là 1 bộ phận hậu cần quân đội ở địa phương, là một thành phần của cơ quan quân sự địa phương, hậu cần khu vực phòng thủ. Nguồn bảo đảm do nguồn bảo đảm của hậu cần quân đội và các nghành kinh tế xã hội của địa phương
+Câu 40. Tại sao Tổ chức hoạt động, BĐHC, kỹ thuật luôn gắn bó chặt chẽ với địa giới hành chính và hoạt động của địa phương?A
+A. Là 1 bộ phận hậu cần quân đội ở địa phương, là một thành phần của cơ quan quân sự địa phương, hậu cần khu vực phòng thủ. Nguồn bảo đảm do nguồn bảo đảm của hậu cần quân đội và các ngành kinh tế xã hội của địa phương
 B. Là bộ phận của hậu cần nhân dân ở địa phương
 C. Là hậu cần địa phương
 D. Là bộ phận quan trọng trong thành phần hậu cần nhân dân.
-Câu 41. Hệ thống tổ chức nghành hậu cần quân đội được tổ chức:D
+Câu 41. Hệ thống tổ chức ngành hậu cần quân đội được tổ chức:D
 A. Từ BQP xuống đơn vị cơ sở gồm 4 cấp: chiến lược, chiến dịch , chiến thuật và ..
 B. Từ BQP xuống đơn vị cơ sở gồm 3 cấp: BQP, Quân khu, quân đoàn
 C. Từ BQP xuống đơn vị cơ sở gồm 4 cấp: BQP, quân khu, quân đoàn 
 D. Từ BQP xuống đơn vị cơ sở gồm 3 cấp: chiến thuật, chiến dịch, chiến lược
-Câu 45:Phòng Kỹ thuật/Sư đoàn có:D
+Câu 45:Phòng Kỹ thuật/Sư đoàn có:C
 A. Trợ lý tài chính
 B. Nhân viên tài chính
 C. Không có cơ quan tài chính
