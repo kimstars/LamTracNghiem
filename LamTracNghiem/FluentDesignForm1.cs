@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
+
 namespace LamTracNghiem
 {
     public partial class FluentDesignForm1 : DevExpress.XtraBars.FluentDesignSystem.FluentDesignForm
@@ -68,8 +69,6 @@ namespace LamTracNghiem
 
             string[] lines = text.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
             string dapan = "ABCDE";
-
-            string ansA = null, ansB = null, ansC = null, ansD = null;
 
             string ques = null;
             string answer = null;
@@ -142,7 +141,7 @@ namespace LamTracNghiem
 
             }
 
-            
+
             //MessageBox.Show(lstQuestion.Count.ToString());
 
 
@@ -154,7 +153,7 @@ namespace LamTracNghiem
             newform.Show();
         }
 
-       
+
 
 
 
@@ -247,8 +246,7 @@ namespace LamTracNghiem
             return Rbtn;
         }
 
-
-
+ 
         private void LoadCauHoi(int stt)
         {
             Question oneques = lstQuestion[stt];
@@ -390,6 +388,8 @@ namespace LamTracNghiem
             currentQues = 0;
             socaudung = 0;
             socausai = 0;
+            lbSoCauDung.Text = socaudung.ToString();
+            lbSoCauSai.Text = socausai.ToString();
 
             flPanelAns.Controls.Clear();
             txtQues.Text = "";
@@ -403,8 +403,8 @@ namespace LamTracNghiem
                 Button btn = control as Button;
                 if (btn != null)
                 {
+                    btn.Text = btn.Tag.ToString();
                     btn.BackColor = Color.White;
-                    break;
                 }
             }
         }
@@ -414,6 +414,8 @@ namespace LamTracNghiem
             currentQues = 0;
             socaudung = 0;
             socausai = 0;
+            lbSoCauDung.Text = socaudung.ToString();
+            lbSoCauSai.Text = socausai.ToString();
 
             flPanelAns.Controls.Clear();
             flowLayoutPanel1.Controls.Clear();
@@ -431,12 +433,15 @@ namespace LamTracNghiem
             currentQues = 0;
             socaudung = 0;
             socausai = 0;
+            lbSoCauDung.Text = socaudung.ToString();
+            lbSoCauSai.Text = socausai.ToString();
 
             flPanelAns.Controls.Clear();
             txtQues.Text = "";
             foreach (var item in lstQuestion)
             {
                 item.DaLam = false;
+                item.Dung = false;
             }
 
             foreach (Control control in flowLayoutPanel1.Controls)
@@ -444,8 +449,8 @@ namespace LamTracNghiem
                 Button btn = control as Button;
                 if (btn != null)
                 {
+                    btn.Text = btn.Tag.ToString();
                     btn.BackColor = Color.White;
-                    break;
                 }
             }
             var rnd = new Random();

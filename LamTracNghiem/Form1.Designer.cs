@@ -50,16 +50,17 @@ namespace LamTracNghiem
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(36, 140);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(179, 17);
+            this.label2.Size = new System.Drawing.Size(206, 17);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Email: buikika9@gmail.com";
+            this.label2.Text = "Email: kietct_c155@mta.edu.vn";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(36, 106);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(197, 17);
+            this.label3.Size = new System.Drawing.Size(222, 17);
             this.label3.TabIndex = 2;
             this.label3.Text = "Donate: 0866879105 MBbank";
             // 

@@ -147,6 +147,7 @@ namespace LamTracNghiem
             // 
             this.lbSoCauDung.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbSoCauDung.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbSoCauDung.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lbSoCauDung.Location = new System.Drawing.Point(16, 58);
             this.lbSoCauDung.Name = "lbSoCauDung";
             this.lbSoCauDung.Size = new System.Drawing.Size(97, 47);
@@ -166,6 +167,7 @@ namespace LamTracNghiem
             // 
             this.lbSoCauSai.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbSoCauSai.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbSoCauSai.ForeColor = System.Drawing.Color.Red;
             this.lbSoCauSai.Location = new System.Drawing.Point(16, 177);
             this.lbSoCauSai.Name = "lbSoCauSai";
             this.lbSoCauSai.Size = new System.Drawing.Size(97, 47);
