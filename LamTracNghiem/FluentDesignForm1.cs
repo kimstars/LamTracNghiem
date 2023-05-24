@@ -38,12 +38,15 @@ namespace LamTracNghiem
 
             using (WebClient webClient = new WebClient())
             {
+                Form1 newform = new Form1();
+                newform.Show();
+
                 Console.WriteLine("Downloading file ...");
 
                 // Download the Web resource and save it into the destination
                 webClient.DownloadFile(remoteUri , dest);
 
-                Console.WriteLine("Successfully downloaded file ");
+                MessageBox.Show("Successfully downloaded file ");
             }
         }
 

@@ -12,6 +12,12 @@ Làm bài thi trắc nghiệm trên đề thi có sẵn
 
 
 
+- Update: Tự động load đề thi 
+
+![image-20230524230714308](./image/image-20230524230714308.png)
+
+
+
 ## Tính năng sẽ phát triển (nếu có donate)
 
 Tính năng thêm câu hỏi cho bộ đề trắc nghiệm

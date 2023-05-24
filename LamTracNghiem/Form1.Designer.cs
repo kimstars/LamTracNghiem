@@ -57,10 +57,10 @@ namespace LamTracNghiem
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(36, 106);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(222, 17);
+            this.label3.Size = new System.Drawing.Size(254, 20);
             this.label3.TabIndex = 2;
             this.label3.Text = "Donate: 0866879105 MBbank";
             // 
@@ -80,7 +80,8 @@ namespace LamTracNghiem
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(443, 112);
             this.label5.TabIndex = 4;
-            this.label5.Text = "Hướng dẫn: Ấn button Load đề để load đề thi";
+            this.label5.Text = "Hướng dẫn: Vui lòng mở kết nối Internet. Đề thi sẽ mất một lúc để tải về. Thankiu" +
+    "";
             // 
             // Form1
             // 
