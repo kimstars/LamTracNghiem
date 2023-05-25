@@ -181,7 +181,7 @@ namespace LamTracNghiem
 
         private void FluentDesignForm1_Load(object sender, EventArgs e)
         {
-            UpdateDeThi();
+            //UpdateDeThi();
 
             if (File.Exists("./HCTC.txt"))
             {
