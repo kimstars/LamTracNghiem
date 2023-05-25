@@ -1351,16 +1351,6 @@ C. 1. Làm công tác chuẩn bị tại khu tập kết.
 D. 1. Làm công tác chuẩn bị tại khu vực đóng quân thường xuyên.
      2. Tiến hành cơ động ra khu sơ tán hoặc khu vực đóng quân bí mật.
      3. Tổ chức hoạt động tại khu sơ tán hoặc khu vực đóng quân bí mật.
-Câu 8: Biện pháp quản lý kinh phí nghiệp vụ:A
--	Nắm vững chế độ, tiêu chuẩn, định mức
--	Kết hợp quản lý chỉ tiêu phần tiền với chỉ tiêu phần hiện vật theo phương thức tiền tệ hóa
--	Nâng cao trách nhiệm vật chất trong quản lý kinh phí nghiệp vụ 
--	Tăng cường khả năng tạo nguồn tài chính của đơn vị
- Chọn số lượng các phương án đúng:
-A. 3									
-C. 4
-B. 2									
-D. 1
 Câu 9: Nội dung công tác xây dựng ngành hậu cần gồm :D
 A. 	1. Xây dựng chức năng, nhiệm vụ ngành hậu cần
      	2. Xây dựng nền nếp công tác
@@ -1477,3 +1467,13 @@ A. Việc chuyển thương chủ yếu do bộ đội và dân quân thực hi�
 B. Ở tuyến đại đội, tiểu đoàn, chủ yếu chuyển thương bằng vận tải bộ, khi có điều kiện, có thể hợp vận chuyển bằng phương tiện vận tải cơ giới. Ở tuyến trung đoàn, sư đoàn (tương đương việc chuyển thương chủ yếu kết hợp giữa vận tải bộ và vận tải cơ giới.) 
 C. Việc chuyển thương do cấp trên thực hiện.
 D. Việc chuyển thương chủ yếu kết hợp giữa vận tải bộ và đi bộ.
+Câu 8: Biện pháp quản lý kinh phí nghiệp vụ:A
+-	Nắm vững chế độ, tiêu chuẩn, định mức
+-	Kết hợp quản lý chỉ tiêu phần tiền với chỉ tiêu phần hiện vật theo phương thức tiền tệ hóa
+-	Nâng cao trách nhiệm vật chất trong quản lý kinh phí nghiệp vụ 
+-	Tăng cường khả năng tạo nguồn tài chính của đơn vị
+ Chọn số lượng các phương án đúng:
+A. 3
+C. 4
+B. 2
+D. 1
