@@ -1357,9 +1357,9 @@ Câu 8: Biện pháp quản lý kinh phí nghiệp vụ:A
 -	Nâng cao trách nhiệm vật chất trong quản lý kinh phí nghiệp vụ 
 -	Tăng cường khả năng tạo nguồn tài chính của đơn vị
  Chọn số lượng các phương án đúng:
-A.3									
+A. 3									
 C. 4
-B.2									
+B. 2									
 D. 1
 Câu 9: Nội dung công tác xây dựng ngành hậu cần gồm :D
 A. 	1. Xây dựng chức năng, nhiệm vụ ngành hậu cần
@@ -1472,3 +1472,8 @@ A. từ cấp lữ đoàn và tương đương trở lên được tổ chức t
 B. từ cấp sư đoàn và tương đương trở lên được tổ chức thành cơ quan quân nhu
 C. từ cấp trung đoàn và tương đương trở lên được tổ chức thành cơ quan quân nhu
 D. từ cấp  tiểu đoàn và tương đương trở lên được tổ chức thành cơ quan quân nhu
+Câu 5:  Trong chiến đấu, vận chuyển thương binh, bệnh binh được thực hiện như thế nào?B
+A. Việc chuyển thương chủ yếu do bộ đội và dân quân thực hiện. 
+B. Ở tuyến đại đội, tiểu đoàn, chủ yếu chuyển thương bằng vận tải bộ, khi có điều kiện, có thể hợp vận chuyển bằng phương tiện vận tải cơ giới. Ở tuyến trung đoàn, sư đoàn (tương đương việc chuyển thương chủ yếu kết hợp giữa vận tải bộ và vận tải cơ giới.) 
+C. Việc chuyển thương do cấp trên thực hiện.
+D. Việc chuyển thương chủ yếu kết hợp giữa vận tải bộ và đi bộ.
